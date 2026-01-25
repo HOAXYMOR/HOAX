@@ -1,0 +1,36 @@
+#les_sites_cool
+{
+	background-image: url("assets/images/sites_cool.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 310px;
+}
+
+
+#block
+{
+	height: 123px;
+	width: 676px;
+	border-color: black;
+	border-style: solid;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+
+}
+
+
+
+p
+{
+	text-align: center;
+	color: black;
+	font-family: arial;
+	font-size: 15px;
+}
+
+
+

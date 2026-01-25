@@ -1,0 +1,73 @@
+#pixelperfect
+{
+	background-image: url("assets/images/pixelperfect.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 310px;
+    background-position: center;
+}
+
+
+#block
+{
+	height: 385px;
+	width: 603px;
+	border-color: black;
+	border-style: solid;
+	margin-bottom: 10px;
+
+}
+
+
+#image1
+{
+	height: 263px;
+	width: 603px;
+	border-color: black;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("assets/images/screenmodif.png");
+	background-position: center;
+}
+
+#image2
+{
+	height: 263px;
+	width: 603px;
+	border-color: black;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("assets/images/ness.png");
+	background-position: center;
+}
+
+#image3
+{
+	height: 263px;
+	width: 603px;
+	border-color: black;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("assets/images/dufu.png");
+	background-position: center;
+}
+
+#text
+{
+	text-align: left;
+	padding: 5px;
+
+
+
+}
+
+p
+{
+	text-align: center;
+	color: black;
+	font-family: arial;
+	font-size: 15px;
+}
+
+
+

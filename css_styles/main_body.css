@@ -1,0 +1,53 @@
+body
+{
+	background-color: #bcbcbc ;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+#main
+{
+	width: 800px;
+	height: 1500px;
+	background-color: white;
+	box-shadow: 5px 5px 20px black ; 
+}
+
+#centerboxmain
+{
+	width: 800px;
+	height: 950px;
+	display: flex;
+	justify-content: space-evenly;
+	flex-flow: row wrap;
+	overflow-Y: scroll;
+}
+
+footer
+{
+	height: auto;
+}
+
+
+#logo2
+{
+	background-image: url("assets/images/HOAX.png");
+	background-repeat: no-repeat;
+	width: 100px;
+	height: 100px;
+	background-size: contain;
+	box-shadow: 5px 5px 5px black; 
+	margin: auto;
+}
+
+#mentions_legales
+{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+	

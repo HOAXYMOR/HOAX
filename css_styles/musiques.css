@@ -1,0 +1,47 @@
+#musiques
+{
+	background-image: url("assets/images/musiques.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 310px;
+}
+
+
+#block
+{
+	height: 123px;
+	width: 676px;
+	border-color: black;
+	border-style: solid;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+
+}
+
+#musicimage
+{
+	width: 130px;
+	height:130px ;
+	border-color: black;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("assets/images/regerg.png");
+	background-position: center;
+}
+
+
+
+p
+{
+	text-align: center;
+	color: black;
+	font-family: arial;
+	font-size: 15px;
+}
+
+
+
