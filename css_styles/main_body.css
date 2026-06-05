@@ -22,7 +22,6 @@ body
 	display: flex;
 	justify-content: space-evenly;
 	flex-flow: row wrap;
-	overflow-Y: scroll;
 }
 
 footer
